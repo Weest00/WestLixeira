@@ -1,0 +1,8 @@
+name: WestLixeira
+version: 1.0
+main: br.com.west.lixeira.Main
+commands:
+  lixo:
+    description: abrir lixeira
+    aliases:
+    - lixeira
